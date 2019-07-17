@@ -1,0 +1,11 @@
+br\com\renan\twgerenciadortarefas\repositorios\RepositorioUsuario.class
+br\com\renan\twgerenciadortarefas\WebMvcConfig.class
+br\com\renan\twgerenciadortarefas\controllers\ContaController.class
+br\com\renan\twgerenciadortarefas\repositorios\RepositorioTarefa.class
+br\com\renan\twgerenciadortarefas\modelos\Usuario.class
+br\com\renan\twgerenciadortarefas\servicos\ServicoUsuario.class
+br\com\renan\twgerenciadortarefas\TwGerenciadorTarefasApplication.class
+br\com\renan\twgerenciadortarefas\modelos\Tarefa.class
+br\com\renan\twgerenciadortarefas\controllers\TarefaController.class
+br\com\renan\twgerenciadortarefas\controllers\HomeController.class
+br\com\renan\twgerenciadortarefas\SecurityConfig.class
